@@ -29,4 +29,4 @@
 
 ### Live Demo
 
-> https://kind-swartz-a01ce3.netlify.app
+> https://relaxed-khorana-a40b04.netlify.app
