@@ -124,7 +124,7 @@ export default defineComponent({
     width: 100%;
     height: 48px;
     margin-bottom: 8px;
-    background-color: #f7f7f7;
+    background-color: var(--c-skeleton);
     border-radius: var(--b-radius);
   }
 }

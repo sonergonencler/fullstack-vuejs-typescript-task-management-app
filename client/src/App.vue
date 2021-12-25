@@ -61,6 +61,7 @@ export default defineComponent({
   --c-background-var: #333;
   --c-text: #fff;
   --c-text-light: #fff;
+  --c-skeleton: #333;
 }
 
 .light:root {
@@ -70,6 +71,7 @@ export default defineComponent({
   --c-background-var: #f7f7f7;
   --c-text: #333;
   --c-text-light: #fff;
+  --c-skeleton: #f7f7f7;
 }
 
 html {
