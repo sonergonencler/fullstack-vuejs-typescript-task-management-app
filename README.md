@@ -18,6 +18,7 @@
 - Nodejs
 - Express
 - MongoDB
+- Mongoose
 - REST API
 
 ### Features
