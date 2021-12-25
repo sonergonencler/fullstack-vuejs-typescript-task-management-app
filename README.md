@@ -29,4 +29,4 @@
 
 ### Live Demo
 
-> https://wizardly-wilson-06aaf1.netlify.app
+> https://kind-swartz-a01ce3.netlify.app
