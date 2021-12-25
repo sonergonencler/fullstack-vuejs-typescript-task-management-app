@@ -29,4 +29,4 @@
 
 ### Live Demo
 
-> https://romantic-lalande-9ae3fa.netlify.app
+> https://wizardly-wilson-06aaf1.netlify.app
