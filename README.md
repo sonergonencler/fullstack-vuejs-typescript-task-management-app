@@ -27,7 +27,3 @@
 - Update task
 - Dark/Light Theme
 - Responsive
-
-### Live Demo
-
-> https://relaxed-khorana-a40b04.netlify.app
